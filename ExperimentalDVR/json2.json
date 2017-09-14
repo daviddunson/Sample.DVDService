@@ -1,0 +1,315 @@
+[
+  {
+    "City": "Huntsville",
+    "Id": 890956,
+    "Name": "AT&T - U-verse (Huntsville)",
+    "State": "AL",
+    "TimeOffsets": [
+      {
+        "End": 1509861600,
+        "Offset": 240,
+        "Start": 1489302000,
+        "PrimeTime": 20
+      },
+      {
+        "End": 1520751600,
+        "Offset": 300,
+        "Start": 1509861600,
+        "PrimeTime": 20
+      }
+    ],
+    "Type": "cable",
+    "Devices": [
+      {
+        "DeviceName": "Standard Cable",
+        "DeviceFlag": 1
+      },
+      {
+        "DeviceName": "Digital (non-rebuild)",
+        "DeviceFlag": 16777216
+      }
+    ]
+  },
+  {
+    "City": "Athens",
+    "Id": 358090,
+    "Name": "Charter Communications, Inc. (Athens)",
+    "State": "AL",
+    "TimeOffsets": [
+      {
+        "End": 1509865200,
+        "Offset": 300,
+        "Start": 1489305600,
+        "PrimeTime": 19
+      },
+      {
+        "End": 1520755200,
+        "Offset": 360,
+        "Start": 1509865200,
+        "PrimeTime": 19
+      }
+    ],
+    "Type": "cable",
+    "Devices": [
+      {
+        "DeviceName": "Standard Cable",
+        "DeviceFlag": 1
+      },
+      {
+        "DeviceName": "CableCard",
+        "DeviceFlag": 8
+      },
+      {
+        "DeviceName": "Digital (non-rebuild)",
+        "DeviceFlag": 16777216
+      }
+    ]
+  },
+  {
+    "City": "Central Time Zone",
+    "Id": 906640,
+    "Name": "Sling TV (Central Time Zone)",
+    "State": "NA",
+    "TimeOffsets": [
+      {
+        "End": 1509865200,
+        "Offset": 300,
+        "Start": 1489305600,
+        "PrimeTime": 19
+      },
+      {
+        "End": 1520755200,
+        "Offset": 360,
+        "Start": 1509865200,
+        "PrimeTime": 19
+      }
+    ],
+    "Type": "cable",
+    "Devices": [
+      {
+        "DeviceName": "",
+        "DeviceFlag": 32
+      }
+    ]
+  },
+  {
+    "City": "Hntsvlle-Decatur Fl",
+    "Id": 906719,
+    "Name": "Sling TV (Hntsvlle-Decatur Fl)",
+    "State": "AL",
+    "TimeOffsets": [
+      {
+        "End": 1509865200,
+        "Offset": 300,
+        "Start": 1489305600,
+        "PrimeTime": 19
+      },
+      {
+        "End": 1520755200,
+        "Offset": 360,
+        "Start": 1509865200,
+        "PrimeTime": 19
+      }
+    ],
+    "Type": "cable",
+    "Devices": [
+      {
+        "DeviceName": "",
+        "DeviceFlag": 32
+      }
+    ]
+  },
+  {
+    "City": "Huntsville",
+    "Id": 63127,
+    "Name": "WOW! (Huntsville)",
+    "State": "AL",
+    "TimeOffsets": [
+      {
+        "End": 1509865200,
+        "Offset": 300,
+        "Start": 1489305600,
+        "PrimeTime": 19
+      },
+      {
+        "End": 1520755200,
+        "Offset": 360,
+        "Start": 1509865200,
+        "PrimeTime": 19
+      }
+    ],
+    "Type": "cable",
+    "Devices": [
+      {
+        "DeviceName": "Standard Cable",
+        "DeviceFlag": 1
+      },
+      {
+        "DeviceName": "Digital (non-rebuild)",
+        "DeviceFlag": 16777216
+      }
+    ]
+  },
+  {
+    "City": "Central Time Zone",
+    "Id": 905939,
+    "Name": "AFN Satellite",
+    "State": "NA",
+    "TimeOffsets": [
+      {
+        "End": 1509865200,
+        "Offset": 300,
+        "Start": 1489305600,
+        "PrimeTime": 19
+      },
+      {
+        "End": 1520755200,
+        "Offset": 360,
+        "Start": 1509865200,
+        "PrimeTime": 19
+      }
+    ],
+    "Type": "satellite",
+    "Devices": [
+      {
+        "DeviceName": "Digital (non-rebuild)",
+        "DeviceFlag": 16777216
+      }
+    ]
+  },
+  {
+    "City": "Central Time Zone",
+    "Id": 63892,
+    "Name": "DirecTV",
+    "State": "NA",
+    "TimeOffsets": [
+      {
+        "End": 1509865200,
+        "Offset": 300,
+        "Start": 1489305600,
+        "PrimeTime": 19
+      },
+      {
+        "End": 1520755200,
+        "Offset": 360,
+        "Start": 1509865200,
+        "PrimeTime": 19
+      }
+    ],
+    "Type": "satellite",
+    "Devices": [
+      {
+        "DeviceName": "Digital (non-rebuild)",
+        "DeviceFlag": 16777216
+      }
+    ]
+  },
+  {
+    "City": "Huntsville-Decatur",
+    "Id": 889042,
+    "Name": "DirecTV with Local channels",
+    "State": "AL",
+    "TimeOffsets": [
+      {
+        "End": 1509865200,
+        "Offset": 300,
+        "Start": 1489305600,
+        "PrimeTime": 19
+      },
+      {
+        "End": 1520755200,
+        "Offset": 360,
+        "Start": 1509865200,
+        "PrimeTime": 19
+      }
+    ],
+    "Type": "satellite",
+    "Devices": [
+      {
+        "DeviceName": "Digital (non-rebuild)",
+        "DeviceFlag": 16777216
+      }
+    ]
+  },
+  {
+    "City": "Central Time Zone",
+    "Id": 63880,
+    "Name": "Dish Network",
+    "State": "NA",
+    "TimeOffsets": [
+      {
+        "End": 1509865200,
+        "Offset": 300,
+        "Start": 1489305600,
+        "PrimeTime": 19
+      },
+      {
+        "End": 1520755200,
+        "Offset": 360,
+        "Start": 1509865200,
+        "PrimeTime": 19
+      }
+    ],
+    "Type": "satellite",
+    "Devices": [
+      {
+        "DeviceName": "Digital (non-rebuild)",
+        "DeviceFlag": 16777216
+      }
+    ]
+  },
+  {
+    "City": "Huntsville-Decatur",
+    "Id": 76417,
+    "Name": "Dish Network with Local channels",
+    "State": "AL",
+    "TimeOffsets": [
+      {
+        "End": 1509865200,
+        "Offset": 300,
+        "Start": 1489305600,
+        "PrimeTime": 19
+      },
+      {
+        "End": 1520755200,
+        "Offset": 360,
+        "Start": 1509865200,
+        "PrimeTime": 19
+      }
+    ],
+    "Type": "satellite",
+    "Devices": [
+      {
+        "DeviceName": "Digital (non-rebuild)",
+        "DeviceFlag": 16777216
+      }
+    ]
+  },
+  {
+    "City": "Hntsvlle-Decatur Fl",
+    "Id": 20471,
+    "Name": "Huntsville-Decatur Area Broadcast (Hntsvlle-Decatur Fl)",
+    "State": "AL",
+    "TimeOffsets": [
+      {
+        "End": 1509865200,
+        "Offset": 300,
+        "Start": 1489305600,
+        "PrimeTime": 19
+      },
+      {
+        "End": 1520755200,
+        "Offset": 360,
+        "Start": 1509865200,
+        "PrimeTime": 19
+      }
+    ],
+    "Type": "broadcast",
+    "Devices": [
+      {
+        "DeviceName": "OTA Broadcast",
+        "DeviceFlag": 268435456
+      }
+    ]
+  }
+]

@@ -1,0 +1,1794 @@
+[
+  {
+    "Channel": {
+      "FullName": "WTZP Cozi TV",
+      "Name": "WTZP",
+      "Number": "11.1",
+      "SourceId": 75469
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 995617,
+        "StartTime": 1505419200,
+        "Title": "Murder, She Wrote"
+      },
+      {
+        "AiringAttrib": 266,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 588081,
+        "StartTime": 1505422800,
+        "Title": "Little House on the Prairie"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WTZT COZI",
+      "Name": "WTZTC",
+      "Number": "11.2",
+      "SourceId": 84192
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 995617,
+        "StartTime": 1505419200,
+        "Title": "Murder, She Wrote"
+      },
+      {
+        "AiringAttrib": 266,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 588081,
+        "StartTime": 1505422800,
+        "Title": "Little House on the Prairie"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WTZT COZI",
+      "Name": "WTZTC",
+      "Number": "11.3",
+      "SourceId": 84193
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 995617,
+        "StartTime": 1505419200,
+        "Title": "Murder, She Wrote"
+      },
+      {
+        "AiringAttrib": 266,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 588081,
+        "StartTime": 1505422800,
+        "Title": "Little House on the Prairie"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WTZT COZI",
+      "Name": "WTZTC",
+      "Number": "11.4",
+      "SourceId": 84400
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 995617,
+        "StartTime": 1505419200,
+        "Title": "Murder, She Wrote"
+      },
+      {
+        "AiringAttrib": 266,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 588081,
+        "StartTime": 1505422800,
+        "Title": "Little House on the Prairie"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WPXA HDTV",
+      "Name": "ION",
+      "Number": "14.1",
+      "SourceId": 11915
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 40,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 28807319,
+        "StartTime": 1505419200,
+        "Title": "Blue Bloods"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 28825940,
+        "StartTime": 1505422800,
+        "Title": "Blue Bloods"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "qubo",
+      "Name": "qubo",
+      "Number": "14.2",
+      "SourceId": 18153
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505421000,
+        "ProgramId": 24182897,
+        "StartTime": 1505419200,
+        "Title": "Giver"
+      },
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505422800,
+        "ProgramId": 20450734,
+        "StartTime": 1505421000,
+        "Title": "Giver"
+      },
+      {
+        "AiringAttrib": 256,
+        "CatId": 3,
+        "EndTime": 1505424600,
+        "ProgramId": 25244429,
+        "StartTime": 1505422800,
+        "Title": "Animal Science"
+      },
+      {
+        "AiringAttrib": 256,
+        "CatId": 3,
+        "EndTime": 1505426400,
+        "ProgramId": 25244429,
+        "StartTime": 1505424600,
+        "Title": "Animal Science"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "ION Life",
+      "Name": "IONL",
+      "Number": "14.3",
+      "SourceId": 18154
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 10,
+        "CatId": 9,
+        "EndTime": 1505421000,
+        "ProgramId": 9959073,
+        "StartTime": 1505419200,
+        "Title": "Anna & Kristina's Grocery Bag"
+      },
+      {
+        "AiringAttrib": 10,
+        "CatId": 9,
+        "EndTime": 1505422800,
+        "ProgramId": 10020155,
+        "StartTime": 1505421000,
+        "Title": "Anna & Kristina's Grocery Bag"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505424600,
+        "ProgramId": 2780483,
+        "StartTime": 1505422800,
+        "Title": "Loving Spoonfuls"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505426400,
+        "ProgramId": 2780630,
+        "StartTime": 1505424600,
+        "Title": "Loving Spoonfuls"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "ION ShopTV",
+      "Name": "SHOP",
+      "Number": "14.4",
+      "SourceId": 38011
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 943115,
+        "StartTime": 1505419200,
+        "Title": "Paid Programming"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 943115,
+        "StartTime": 1505421000,
+        "Title": "Paid Programming"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 943115,
+        "StartTime": 1505422800,
+        "Title": "Paid Programming"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 943115,
+        "StartTime": 1505424600,
+        "Title": "Paid Programming"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "ION QVC",
+      "Name": "QVC",
+      "Number": "14.5",
+      "SourceId": 44524
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 0,
+        "CatId": 9,
+        "EndTime": 1505426400,
+        "ProgramId": 29862644,
+        "StartTime": 1505419200,
+        "Title": "Vionic-Footwear"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WHDF HDTV",
+      "Name": "WHDFDT",
+      "Number": "15.1",
+      "SourceId": 20323
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 44,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 33510195,
+        "StartTime": 1505419200,
+        "Title": "The Robert Irvine Show"
+      },
+      {
+        "AiringAttrib": 44,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 33750950,
+        "StartTime": 1505422800,
+        "Title": "Hot Bench"
+      },
+      {
+        "AiringAttrib": 44,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 33750951,
+        "StartTime": 1505424600,
+        "Title": "Hot Bench"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WHNT HDTV",
+      "Name": "WHNTHD",
+      "Number": "19.1",
+      "SourceId": 11829
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 44,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 33706646,
+        "StartTime": 1505419200,
+        "Title": "The Ellen DeGeneres Show"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 4,
+        "EndTime": 1505426400,
+        "ProgramId": 30305525,
+        "StartTime": 1505422800,
+        "Title": "WHNT News 19 at 4"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WHNT Two HDTV",
+      "Name": "WHNT2",
+      "Number": "19.2",
+      "SourceId": 78869
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 42,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 23129215,
+        "StartTime": 1505419200,
+        "Title": "Supreme Justice With Judge Karen"
+      },
+      {
+        "AiringAttrib": 42,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 27807765,
+        "StartTime": 1505421000,
+        "Title": "Supreme Justice With Judge Karen"
+      },
+      {
+        "AiringAttrib": 42,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 28314184,
+        "StartTime": 1505422800,
+        "Title": "America's Court With Judge Ross"
+      },
+      {
+        "AiringAttrib": 42,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 30398699,
+        "StartTime": 1505424600,
+        "Title": "The Verdict With Judge Hatchett"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WHNT Antenna TV",
+      "Name": "ANTNA",
+      "Number": "19.3",
+      "SourceId": 20518
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 266,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 595501,
+        "StartTime": 1505419200,
+        "Title": "Bewitched"
+      },
+      {
+        "AiringAttrib": 266,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 26549,
+        "StartTime": 1505421000,
+        "Title": "Bewitched"
+      },
+      {
+        "AiringAttrib": 2,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 291132,
+        "StartTime": 1505422800,
+        "Title": "Barney Miller"
+      },
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 590282,
+        "StartTime": 1505424600,
+        "Title": "Newhart"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WMJN",
+      "Name": "WMJN",
+      "Number": "23",
+      "SourceId": 3018
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 32,
+        "CatId": 10,
+        "EndTime": 1505421000,
+        "ProgramId": 866151,
+        "StartTime": 1505419200,
+        "Title": "Cheyenne Country"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 10,
+        "EndTime": 1505422800,
+        "ProgramId": 25304665,
+        "StartTime": 1505421000,
+        "Title": "Nashville Unleashed"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 25221258,
+        "StartTime": 1505422800,
+        "Title": "Country Fix"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 10,
+        "EndTime": 1505426400,
+        "ProgramId": 18111082,
+        "StartTime": 1505424600,
+        "Title": "Texas Music Scene"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "APT HDTV",
+      "Name": "APTHD",
+      "Number": "25.1",
+      "SourceId": 13404
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 298,
+        "CatId": 3,
+        "EndTime": 1505421000,
+        "ProgramId": 21588357,
+        "StartTime": 1505419200,
+        "Title": "Wild Kratts"
+      },
+      {
+        "AiringAttrib": 298,
+        "CatId": 3,
+        "EndTime": 1505422800,
+        "ProgramId": 33085270,
+        "StartTime": 1505421000,
+        "Title": "Odd Squad"
+      },
+      {
+        "AiringAttrib": 298,
+        "CatId": 3,
+        "EndTime": 1505424600,
+        "ProgramId": 25871478,
+        "StartTime": 1505422800,
+        "Title": "Odd Squad"
+      },
+      {
+        "AiringAttrib": 298,
+        "CatId": 3,
+        "EndTime": 1505426400,
+        "ProgramId": 24047210,
+        "StartTime": 1505424600,
+        "Title": "Arthur"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "APT PBS Kids",
+      "Name": "APTK",
+      "Number": "25.2",
+      "SourceId": 86180
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505421000,
+        "ProgramId": 20769575,
+        "StartTime": 1505419200,
+        "Title": "Dinosaur Train"
+      },
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505422800,
+        "ProgramId": 33061843,
+        "StartTime": 1505421000,
+        "Title": "Daniel Tiger's Neighborhood"
+      },
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505424600,
+        "ProgramId": 33061845,
+        "StartTime": 1505422800,
+        "Title": "Daniel Tiger's Neighborhood"
+      },
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505426400,
+        "ProgramId": 32091971,
+        "StartTime": 1505424600,
+        "Title": "Splash and Bubbles"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "APT Create",
+      "Name": "APTCREAT",
+      "Number": "25.3",
+      "SourceId": 18832
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505421000,
+        "ProgramId": 6041738,
+        "StartTime": 1505419200,
+        "Title": "Rick Steves' Europe"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505422800,
+        "ProgramId": 27627324,
+        "StartTime": 1505421000,
+        "Title": "Woodsmith Shop"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505424600,
+        "ProgramId": 32348884,
+        "StartTime": 1505422800,
+        "Title": "Growing a Greener World"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505426400,
+        "ProgramId": 29375345,
+        "StartTime": 1505424600,
+        "Title": "Urban Conversion"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "APT World",
+      "Name": "APTIQ",
+      "Number": "25.4",
+      "SourceId": 19328
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 8,
+        "CatId": 1,
+        "EndTime": 1505421000,
+        "ProgramId": 29342629,
+        "StartTime": 1505419200,
+        "Title": "Far Afield: A Conservation Love Story"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 1,
+        "EndTime": 1505422800,
+        "ProgramId": 33576833,
+        "StartTime": 1505421000,
+        "Title": "Opera Reimagined: Animating the Cunning Little Vixen"
+      },
+      {
+        "AiringAttrib": 12,
+        "CatId": 4,
+        "EndTime": 1505424600,
+        "ProgramId": 13787948,
+        "StartTime": 1505422800,
+        "Title": "NHK Newsline"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 4,
+        "EndTime": 1505426400,
+        "ProgramId": 27324650,
+        "StartTime": 1505424600,
+        "Title": "DW News"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WMJN",
+      "Name": "WMJN",
+      "Number": "29",
+      "SourceId": 3018
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 32,
+        "CatId": 10,
+        "EndTime": 1505421000,
+        "ProgramId": 866151,
+        "StartTime": 1505419200,
+        "Title": "Cheyenne Country"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 10,
+        "EndTime": 1505422800,
+        "ProgramId": 25304665,
+        "StartTime": 1505421000,
+        "Title": "Nashville Unleashed"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 25221258,
+        "StartTime": 1505422800,
+        "Title": "Country Fix"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 10,
+        "EndTime": 1505426400,
+        "ProgramId": 18111082,
+        "StartTime": 1505424600,
+        "Title": "Texas Music Scene"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WMJN",
+      "Name": "WMJN",
+      "Number": "29.1",
+      "SourceId": 75107
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 32,
+        "CatId": 10,
+        "EndTime": 1505421000,
+        "ProgramId": 866151,
+        "StartTime": 1505419200,
+        "Title": "Cheyenne Country"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 10,
+        "EndTime": 1505422800,
+        "ProgramId": 25304665,
+        "StartTime": 1505421000,
+        "Title": "Nashville Unleashed"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 25221258,
+        "StartTime": 1505422800,
+        "Title": "Country Fix"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 10,
+        "EndTime": 1505426400,
+        "ProgramId": 18111082,
+        "StartTime": 1505424600,
+        "Title": "Texas Music Scene"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WMJN",
+      "Name": "WMJN",
+      "Number": "29.2",
+      "SourceId": 75108
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 746851,
+        "StartTime": 1505419200,
+        "Title": "Route 66"
+      },
+      {
+        "AiringAttrib": 256,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 11688,
+        "StartTime": 1505422800,
+        "Title": "Bonanza"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WAAY HDTV",
+      "Name": "WAAYD",
+      "Number": "31.1",
+      "SourceId": 16291
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 44,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 33753724,
+        "StartTime": 1505419200,
+        "Title": "\"Harry\": The Harry Connick, Jr. Show"
+      },
+      {
+        "AiringAttrib": 12,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 33765413,
+        "StartTime": 1505422800,
+        "Title": "Steve"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WAAY ION HDTV",
+      "Name": "ION",
+      "Number": "31.2",
+      "SourceId": 55031
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 40,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 28807319,
+        "StartTime": 1505419200,
+        "Title": "Blue Bloods"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 28825940,
+        "StartTime": 1505422800,
+        "Title": "Blue Bloods"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WAAY QVC",
+      "Name": "WAAY3",
+      "Number": "31.3",
+      "SourceId": 76437
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 0,
+        "CatId": 9,
+        "EndTime": 1505426400,
+        "ProgramId": 29862644,
+        "StartTime": 1505419200,
+        "Title": "Vionic-Footwear"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "APT HDTV",
+      "Name": "APTHD",
+      "Number": "36.1",
+      "SourceId": 13400
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 298,
+        "CatId": 3,
+        "EndTime": 1505421000,
+        "ProgramId": 21588357,
+        "StartTime": 1505419200,
+        "Title": "Wild Kratts"
+      },
+      {
+        "AiringAttrib": 298,
+        "CatId": 3,
+        "EndTime": 1505422800,
+        "ProgramId": 33085270,
+        "StartTime": 1505421000,
+        "Title": "Odd Squad"
+      },
+      {
+        "AiringAttrib": 298,
+        "CatId": 3,
+        "EndTime": 1505424600,
+        "ProgramId": 25871478,
+        "StartTime": 1505422800,
+        "Title": "Odd Squad"
+      },
+      {
+        "AiringAttrib": 298,
+        "CatId": 3,
+        "EndTime": 1505426400,
+        "ProgramId": 24047210,
+        "StartTime": 1505424600,
+        "Title": "Arthur"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "APT PBS Kids",
+      "Name": "APTK",
+      "Number": "36.2",
+      "SourceId": 86179
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505421000,
+        "ProgramId": 20769575,
+        "StartTime": 1505419200,
+        "Title": "Dinosaur Train"
+      },
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505422800,
+        "ProgramId": 33061843,
+        "StartTime": 1505421000,
+        "Title": "Daniel Tiger's Neighborhood"
+      },
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505424600,
+        "ProgramId": 33061845,
+        "StartTime": 1505422800,
+        "Title": "Daniel Tiger's Neighborhood"
+      },
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505426400,
+        "ProgramId": 32091971,
+        "StartTime": 1505424600,
+        "Title": "Splash and Bubbles"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "APT Create",
+      "Name": "APTCREAT",
+      "Number": "36.3",
+      "SourceId": 19326
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505421000,
+        "ProgramId": 6041738,
+        "StartTime": 1505419200,
+        "Title": "Rick Steves' Europe"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505422800,
+        "ProgramId": 27627324,
+        "StartTime": 1505421000,
+        "Title": "Woodsmith Shop"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505424600,
+        "ProgramId": 32348884,
+        "StartTime": 1505422800,
+        "Title": "Growing a Greener World"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505426400,
+        "ProgramId": 29375345,
+        "StartTime": 1505424600,
+        "Title": "Urban Conversion"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "APT World",
+      "Name": "APTW",
+      "Number": "36.4",
+      "SourceId": 19327
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 8,
+        "CatId": 1,
+        "EndTime": 1505421000,
+        "ProgramId": 29342629,
+        "StartTime": 1505419200,
+        "Title": "Far Afield: A Conservation Love Story"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 1,
+        "EndTime": 1505422800,
+        "ProgramId": 33576833,
+        "StartTime": 1505421000,
+        "Title": "Opera Reimagined: Animating the Cunning Little Vixen"
+      },
+      {
+        "AiringAttrib": 12,
+        "CatId": 4,
+        "EndTime": 1505424600,
+        "ProgramId": 13787948,
+        "StartTime": 1505422800,
+        "Title": "NHK Newsline"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 4,
+        "EndTime": 1505426400,
+        "ProgramId": 27324650,
+        "StartTime": 1505424600,
+        "Title": "DW News"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "3ABN",
+      "Name": "3ABN",
+      "Number": "38.1",
+      "SourceId": 73028
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 4199261,
+        "StartTime": 1505419200,
+        "Title": "3ABN Today"
+      },
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 3855391,
+        "StartTime": 1505422800,
+        "Title": "Tiny Tots for Jesus"
+      },
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 961396,
+        "StartTime": 1505424600,
+        "Title": "Kids Time"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "3ABN Proclaim",
+      "Name": "3ABNPR",
+      "Number": "38.2",
+      "SourceId": 73029
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 27781732,
+        "StartTime": 1505417400,
+        "Title": "3ABN Homecoming 2015"
+      },
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 125913,
+        "StartTime": 1505421000,
+        "Title": "Breath of Life"
+      },
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 125913,
+        "StartTime": 1505422800,
+        "Title": "Breath of Life"
+      },
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505428200,
+        "ProgramId": 7976640,
+        "StartTime": 1505424600,
+        "Title": "His Harvest Is Ready"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "3ABN Dare to Dream",
+      "Name": "3ABNDD",
+      "Number": "38.3",
+      "SourceId": 73030
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 6218078,
+        "StartTime": 1505419200,
+        "Title": "Pathway of Hope"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505422800,
+        "ProgramId": 11760474,
+        "StartTime": 1505421000,
+        "Title": "Action 4 Life"
+      },
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 125913,
+        "StartTime": 1505422800,
+        "Title": "Breath of Life"
+      },
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 161544,
+        "StartTime": 1505424600,
+        "Title": "Abundant Living"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "3ABN Latino",
+      "Name": "3ABNL",
+      "Number": "38.4",
+      "SourceId": 73031
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 264,
+        "CatId": 9,
+        "EndTime": 1505420100,
+        "ProgramId": 22593355,
+        "StartTime": 1505419200,
+        "Title": "Con mis manos"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505421000,
+        "ProgramId": 20155110,
+        "StartTime": 1505420100,
+        "Title": "Cocina con color"
+      },
+      {
+        "AiringAttrib": 256,
+        "CatId": 3,
+        "EndTime": 1505422800,
+        "ProgramId": 3604954,
+        "StartTime": 1505421000,
+        "Title": "Amiguitos de Jesús"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 21373591,
+        "StartTime": 1505422800,
+        "Title": "Punto joven"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 19967936,
+        "StartTime": 1505424600,
+        "Title": "Renacer en Jesús"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "3ABN Radio",
+      "Name": "3ABNR",
+      "Number": "38.5",
+      "SourceId": 73033
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 32717831,
+        "StartTime": 1505419200,
+        "Title": "Pictures of the End"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 30262743,
+        "StartTime": 1505421000,
+        "Title": "Women at the Well-Encore"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 30262407,
+        "StartTime": 1505422800,
+        "Title": "Reaching Your Heart"
+      },
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 3357683,
+        "StartTime": 1505424600,
+        "Title": "Faith Chapel"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "3ABN Radio 74",
+      "Name": "Radio 74",
+      "Number": "38.7",
+      "SourceId": 73035
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505421300,
+        "ProgramId": 30251590,
+        "StartTime": 1505419200,
+        "Title": "Songs of the Kingdom"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 30251465,
+        "StartTime": 1505421300,
+        "Title": "Word of God: Bible Reading"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 30251484,
+        "StartTime": 1505422800,
+        "Title": "White Horse Media"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "KTBNDT",
+      "Name": "W33CM",
+      "Number": "40.1",
+      "SourceId": 61999
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 26820604,
+        "StartTime": 1505419200,
+        "Title": "John Hagee"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 4318844,
+        "StartTime": 1505421000,
+        "Title": "Time of Grace"
+      },
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 27191363,
+        "StartTime": 1505422800,
+        "Title": "BillyGraham.TV"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 1059027,
+        "StartTime": 1505424600,
+        "Title": "Billy Graham Crusade"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WPXH HDTV",
+      "Name": "ION HD",
+      "Number": "44.1",
+      "SourceId": 14316
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 40,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 28807319,
+        "StartTime": 1505419200,
+        "Title": "Blue Bloods"
+      },
+      {
+        "AiringAttrib": 40,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 28825940,
+        "StartTime": 1505422800,
+        "Title": "Blue Bloods"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "qubo",
+      "Name": "qubo",
+      "Number": "44.2",
+      "SourceId": 18156
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505421000,
+        "ProgramId": 24182897,
+        "StartTime": 1505419200,
+        "Title": "Giver"
+      },
+      {
+        "AiringAttrib": 264,
+        "CatId": 3,
+        "EndTime": 1505422800,
+        "ProgramId": 20450734,
+        "StartTime": 1505421000,
+        "Title": "Giver"
+      },
+      {
+        "AiringAttrib": 256,
+        "CatId": 3,
+        "EndTime": 1505424600,
+        "ProgramId": 25244429,
+        "StartTime": 1505422800,
+        "Title": "Animal Science"
+      },
+      {
+        "AiringAttrib": 256,
+        "CatId": 3,
+        "EndTime": 1505426400,
+        "ProgramId": 25244429,
+        "StartTime": 1505424600,
+        "Title": "Animal Science"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "ION Life",
+      "Name": "IONL",
+      "Number": "44.3",
+      "SourceId": 18157
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 10,
+        "CatId": 9,
+        "EndTime": 1505421000,
+        "ProgramId": 9959073,
+        "StartTime": 1505419200,
+        "Title": "Anna & Kristina's Grocery Bag"
+      },
+      {
+        "AiringAttrib": 10,
+        "CatId": 9,
+        "EndTime": 1505422800,
+        "ProgramId": 10020155,
+        "StartTime": 1505421000,
+        "Title": "Anna & Kristina's Grocery Bag"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505424600,
+        "ProgramId": 2780483,
+        "StartTime": 1505422800,
+        "Title": "Loving Spoonfuls"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 9,
+        "EndTime": 1505426400,
+        "ProgramId": 2780630,
+        "StartTime": 1505424600,
+        "Title": "Loving Spoonfuls"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "ION ShopTV",
+      "Name": "SHOP",
+      "Number": "44.4",
+      "SourceId": 38110
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 943115,
+        "StartTime": 1505419200,
+        "Title": "Paid Programming"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 943115,
+        "StartTime": 1505421000,
+        "Title": "Paid Programming"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 943115,
+        "StartTime": 1505422800,
+        "Title": "Paid Programming"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 943115,
+        "StartTime": 1505424600,
+        "Title": "Paid Programming"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "ION QVC",
+      "Name": "QVC",
+      "Number": "44.5",
+      "SourceId": 44525
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 0,
+        "CatId": 9,
+        "EndTime": 1505426400,
+        "ProgramId": 29862644,
+        "StartTime": 1505419200,
+        "Title": "Vionic-Footwear"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "ION HSN",
+      "Name": "HSN",
+      "Number": "44.6",
+      "SourceId": 46587
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 0,
+        "CatId": 9,
+        "EndTime": 1505421000,
+        "ProgramId": 29097483,
+        "StartTime": 1505419200,
+        "Title": "Juicy Couture Fragrance"
+      },
+      {
+        "AiringAttrib": 0,
+        "CatId": 9,
+        "EndTime": 1505422800,
+        "ProgramId": 26824813,
+        "StartTime": 1505421000,
+        "Title": "Dr. Brandt Skincare"
+      },
+      {
+        "AiringAttrib": 0,
+        "CatId": 9,
+        "EndTime": 1505426400,
+        "ProgramId": 7115895,
+        "StartTime": 1505422800,
+        "Title": "Korres Beauty"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WAFF HDTV",
+      "Name": "WAFFDT",
+      "Number": "48.1",
+      "SourceId": 14285
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 44,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 33716165,
+        "StartTime": 1505419200,
+        "Title": "Family Feud"
+      },
+      {
+        "AiringAttrib": 44,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 33716221,
+        "StartTime": 1505421000,
+        "Title": "Family Feud"
+      },
+      {
+        "AiringAttrib": 12,
+        "CatId": 4,
+        "EndTime": 1505426400,
+        "ProgramId": 19784734,
+        "StartTime": 1505422800,
+        "Title": "WAFF 48 News Now"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WAFF Bounce TV",
+      "Name": "BOUNC",
+      "Number": "48.2",
+      "SourceId": 16293
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 16384,
+        "CatId": 1,
+        "EndTime": 1505422800,
+        "ProgramId": 3982106,
+        "StartTime": 1505413800,
+        "Title": "Out of Time"
+      },
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 3677377,
+        "StartTime": 1505422800,
+        "Title": "The Bernie Mac Show"
+      },
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 3677395,
+        "StartTime": 1505424600,
+        "Title": "The Bernie Mac Show"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WAFF GRIT",
+      "Name": "WAFF3",
+      "Number": "48.3",
+      "SourceId": 17271
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 1002521,
+        "StartTime": 1505419200,
+        "Title": "Death Valley Days"
+      },
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 623494,
+        "StartTime": 1505421000,
+        "Title": "Death Valley Days"
+      },
+      {
+        "AiringAttrib": 2,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 700346,
+        "StartTime": 1505422800,
+        "Title": "Laramie"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WYAM",
+      "Name": "WYAM",
+      "Number": "51.1",
+      "SourceId": 73036
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 264,
+        "CatId": 1,
+        "EndTime": 1505426400,
+        "ProgramId": 14935430,
+        "StartTime": 1505419200,
+        "Title": "Hachi: A Dog's Tale"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "Azteca America",
+      "Name": "WYAM",
+      "Number": "51.2",
+      "SourceId": 73037
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 32408799,
+        "StartTime": 1505419200,
+        "Title": "Mujeres rompiendo el silencio"
+      },
+      {
+        "AiringAttrib": 0,
+        "CatId": 9,
+        "EndTime": 1505426400,
+        "ProgramId": 2846272,
+        "StartTime": 1505422800,
+        "Title": "Ventaneando"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WZDX HDTV",
+      "Name": "WZDXH",
+      "Number": "54.1",
+      "SourceId": 12107
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 42,
+        "CatId": 9,
+        "EndTime": 1505422800,
+        "ProgramId": 32721321,
+        "StartTime": 1505419200,
+        "Title": "The Dr. Oz Show"
+      },
+      {
+        "AiringAttrib": 44,
+        "CatId": 9,
+        "EndTime": 1505426400,
+        "ProgramId": 33753855,
+        "StartTime": 1505422800,
+        "Title": "Dr. Phil"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WAMY",
+      "Name": "WAMY",
+      "Number": "54.2",
+      "SourceId": 21181
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 18597708,
+        "StartTime": 1505419200,
+        "Title": "Rules of Engagement"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 21582722,
+        "StartTime": 1505421000,
+        "Title": "Rules of Engagement"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 21311789,
+        "StartTime": 1505422800,
+        "Title": "How I Met Your Mother"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 14115208,
+        "StartTime": 1505424600,
+        "Title": "How I Met Your Mother"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WZDX MeTV",
+      "Name": "MeTV",
+      "Number": "54.3",
+      "SourceId": 35499
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 266,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 609846,
+        "StartTime": 1505419200,
+        "Title": "Wagon Train"
+      },
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 1051372,
+        "StartTime": 1505422800,
+        "Title": "T.J. Hooker"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WZDX Escape TV",
+      "Name": "Escape",
+      "Number": "54.4",
+      "SourceId": 85677
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 10,
+        "CatId": 4,
+        "EndTime": 1505422800,
+        "ProgramId": 33341016,
+        "StartTime": 1505419200,
+        "Title": "American Greed"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 4922,
+        "StartTime": 1505422800,
+        "Title": "Unsolved Mysteries"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "WYAM",
+      "Name": "WYAM",
+      "Number": "56",
+      "SourceId": 3860
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 264,
+        "CatId": 1,
+        "EndTime": 1505426400,
+        "ProgramId": 14935430,
+        "StartTime": 1505419200,
+        "Title": "Hachi: A Dog's Tale"
+      }
+    ]
+  },
+  {
+    "Channel": {
+      "FullName": "Daystar",
+      "Name": "DSTAR",
+      "Number": "67.1",
+      "SourceId": 73040
+    },
+    "ProgramSchedules": [
+      {
+        "AiringAttrib": 0,
+        "CatId": 5,
+        "EndTime": 1505421000,
+        "ProgramId": 31987889,
+        "StartTime": 1505419200,
+        "Title": "Nike Adeyemi"
+      },
+      {
+        "AiringAttrib": 10,
+        "CatId": 5,
+        "EndTime": 1505422800,
+        "ProgramId": 11331737,
+        "StartTime": 1505421000,
+        "Title": "Bill Winston"
+      },
+      {
+        "AiringAttrib": 2,
+        "CatId": 5,
+        "EndTime": 1505424600,
+        "ProgramId": 8979211,
+        "StartTime": 1505422800,
+        "Title": "Mission Feeding"
+      },
+      {
+        "AiringAttrib": 8,
+        "CatId": 5,
+        "EndTime": 1505426400,
+        "ProgramId": 19108347,
+        "StartTime": 1505424600,
+        "Title": "Reflections"
+      }
+    ]
+  }
+]
