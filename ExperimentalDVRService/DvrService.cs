@@ -25,10 +25,5 @@ namespace ExperimentalDVRService
         protected override void OnStop()
         {
         }
-
-        public void Run(string[] args)
-        {
-            this.OnStart(args);
-        }
     }
 }
