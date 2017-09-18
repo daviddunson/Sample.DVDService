@@ -35,22 +35,29 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration.Install" />
     <Reference Include="System.Core" />
     <Reference Include="System.ServiceProcess" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleLoggingService.cs" />
+    <Compile Include="DvrSchedule.cs" />
     <Compile Include="DvrService.cs" />
-    <Compile Include="DvrService.Designer.cs">
-      <DependentUpon>DvrService.cs</DependentUpon>
-    </Compile>
+    <Compile Include="FileLoggingService.cs" />
+    <Compile Include="ILoggingService.cs" />
     <Compile Include="ProecessExtensions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ServiceBaseExtensions.cs" />
     <Compile Include="ServiceConsole.cs" />
     <Compile Include="WindowsService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

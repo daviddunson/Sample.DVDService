@@ -8,6 +8,7 @@ namespace ExperimentalDVRService
 {
     using System;
     using System.Diagnostics;
+    using System.IO;
 
     internal static class Program
     {
@@ -17,9 +18,9 @@ namespace ExperimentalDVRService
         /// <param name="args">The command line arguments.</param>
         private static void Main(string[] args)
         {
-            var service = new DvrService();
-            WindowsService.Run(args, service);
-            ServiceConsole.Run(args, service);
+            var logpath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData), @"GSD Logic\Experimental DVR\service.log");
+            WindowsService.Run(args, new DvrService(new FileLoggingService(logpath)));
+            ServiceConsole.Run(args, new DvrService(new ConsoleLoggingService()));
         }
     }
 }

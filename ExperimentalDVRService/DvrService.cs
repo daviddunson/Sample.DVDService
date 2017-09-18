@@ -6,24 +6,34 @@
 
 namespace ExperimentalDVRService
 {
+    using System;
     using System.ComponentModel;
     using System.ServiceProcess;
 
     [DesignerCategory(@"Code")]
-    public partial class DvrService : ServiceBase
+    public class DvrService : ServiceBase
     {
-        public DvrService()
+        private readonly ILoggingService log;
+
+        public DvrService(ILoggingService log)
         {
-            this.InitializeComponent();
+            if (log == null)
+            {
+                throw new ArgumentNullException(nameof(log));
+            }
+
+            this.log = log;
             this.ServiceName = "ExperimentalDVRService";
         }
 
         protected override void OnStart(string[] args)
         {
+            this.log.Write("DVR Service Starting.");
         }
 
         protected override void OnStop()
         {
+            this.log.Write("DVR Service Stopping.");
         }
     }
 }
